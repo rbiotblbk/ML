@@ -1,0 +1,11 @@
+root - 2023-03-06 11:27:52,483 - INFO - Application is started...!
+root - 2023-03-06 11:27:52,484 - INFO - Application is finished...!
+root - 2023-03-06 11:29:29,037 - INFO - Application is started...!
+root - 2023-03-06 11:29:44,242 - DEBUG - Instance of Car is created
+root - 2023-03-06 11:29:57,870 - INFO - Application is finished...!
+root - 2023-03-06 11:32:49,634 - INFO- app.py - Application is started...!
+root - 2023-03-06 11:32:49,634 - DEBUG- car.py - Instance of Car is created
+root - 2023-03-06 11:32:49,634 - INFO- app.py - Application is finished...!
+root - 2023-03-06 11:33:22,544 - INFO- app.py - 14 - Application is started...!
+root - 2023-03-06 11:33:22,544 - DEBUG- car.py - 9 - Instance of Car is created
+root - 2023-03-06 11:33:22,545 - INFO- app.py - 21 - Application is finished...!

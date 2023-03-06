@@ -1,0 +1,4 @@
+2023-03-06 10:55:35,538  - app.py - root - ERROR - This is a debug message 
+2023-03-06 10:55:35,539  - app.py - root - CRITICAL - This is a debug message 
+2023-03-06 10:55:35,539  - app.py - root - ERROR - This is a debug message 
+NoneType: None
